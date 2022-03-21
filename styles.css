@@ -1,7 +1,7 @@
 
 /**Declaring CSS Variables **/
 :root {
-    --primary-color : rgb(88, 225, 230);
+    --primary-color : #a855f7;
 }
 
 
@@ -41,7 +41,7 @@ body {
 .link-primary {
     background-color : var(--primary-color);
     border-radius : 0.5rem;
-    color :rgb(59, 32, 37);
+    color :white;
 }
 
 .link-secomdary{
